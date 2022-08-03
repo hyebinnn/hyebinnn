@@ -5,10 +5,12 @@ I'm working hard on the coding test these days..! 😳<br/>
 
 <br/>
 Thank you for visiting !
-<br/><br/>
+<br/>
+
 ### 👍Skills 
 ----
 **Platforms & Languages**<br/>
+
 <img alt="Anaconda" src ="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
