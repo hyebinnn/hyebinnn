@@ -2,9 +2,9 @@ Hi there 👋 I am Hyebin Kim.
 
 I am interested in **data analysis** and **AI**.💻<br/>
 I'm working hard on the coding test these days..! 😳<br/>
-I'll work harder !      <br/>
+
 <br/>
-Thank you for visiting 💛
+Thank you for visiting !
 <br/><br/>
 ### 👍Skills 
 ----
