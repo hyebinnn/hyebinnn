@@ -1,6 +1,7 @@
 Hi, I am Hyebin Kim. 👋
 
 👩🏻‍💻 **AI engineer**
+<br/>
 I am interested in **data analysis** and **AI**.💻<br/>
 
 <br/>
