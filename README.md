@@ -1,10 +1,8 @@
-Hi there 👋 I am Hyebin Kim.
+Hi, I am Hyebin Kim. 👋
 
+👩🏻‍💻 **AI engineer**
 I am interested in **data analysis** and **AI**.💻<br/>
-I'm working hard on the coding test these days..! 😳<br/>
 
-<br/>
-Thank you for visiting !
 <br/>
 
 ### 👍Skills 
