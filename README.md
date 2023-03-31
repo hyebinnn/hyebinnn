@@ -8,7 +8,7 @@ Hello, I'm Hyebin Kim. 👋
 I am interested in **data analysis** and **service development**.💻 <br>
 I hope the technology I’ve developed helps society. 
 
-<br><br>
+<br>
 
 ---
 
@@ -20,7 +20,7 @@ I hope the technology I’ve developed helps society.
 
 
 
-<br/><br/>
+<br/>
 
 ### 🎀 Contact
 
