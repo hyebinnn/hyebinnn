@@ -25,7 +25,6 @@ I hope the technology I’ve developed helps society.
 ### 🎀 Contact
 
 <a href="https://velog.io/@hyebinnn" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/%ED%98%9C%EB%B9%88-%EA%B9%80-010059265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a> 
 
 ---
 
