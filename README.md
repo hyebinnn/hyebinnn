@@ -1,9 +1,8 @@
 <div align=center>
+
+#### 👩🏻‍💻 Backend Developer <br>
+
 Hello, I'm Hyebin Kim. 👋
-
-<!-- 👩🏻‍💻 **Backend Developer** -->
-
-<br>
 
 I am interested in **data analysis** and **service development**.💻 <br>
 I hope the technology I’ve developed helps society. 
