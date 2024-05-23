@@ -1,7 +1,7 @@
 <div align=center>
 Hello, I'm Hyebin Kim. 👋
 
-<!-- 👩🏻‍💻 **Developer** -->
+<!-- 👩🏻‍💻 **Backend Developer** -->
 
 <br>
 
